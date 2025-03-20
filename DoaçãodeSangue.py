@@ -16,3 +16,4 @@ if idade > 16 and idade < 69:
         print("Peso fora do normal")
 else:
     print("idade não permitida")
+    
