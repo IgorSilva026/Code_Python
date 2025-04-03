@@ -8,7 +8,7 @@ for i in range(10):
     valores.append(valor)
 
 random.shuffle(valores)
-
+  
 valores.sort()
 
 print("lista embaralhada:")
